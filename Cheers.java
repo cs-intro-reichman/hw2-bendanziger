@@ -11,7 +11,7 @@ public class Cheers {
                 System.out.println("Give me an " + ch + ": " + ch + "!");
              }
              else{
-                System.out.println("Give me a " + ch + ": " + ch + "!");
+                System.out.println("Give me a  " + ch + ": " + ch + "!");
              }
              count++;
             }
